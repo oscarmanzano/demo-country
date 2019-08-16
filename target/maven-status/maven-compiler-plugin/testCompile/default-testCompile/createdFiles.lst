@@ -1,0 +1,4 @@
+com/codurance/countries/CountriesApplicationTests.class
+com/codurance/countries/AbmCountriesIntegrationTest.class
+com/codurance/countries/CountryServiceTest.class
+com/codurance/countries/CountryControllerTest.class

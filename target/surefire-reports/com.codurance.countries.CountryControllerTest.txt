@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.codurance.countries.CountryControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.054 s <<< FAILURE! - in com.codurance.countries.CountryControllerTest
+create_country(com.codurance.countries.CountryControllerTest)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<null>
+	at com.codurance.countries.CountryControllerTest.create_country(CountryControllerTest.java:16)
+
